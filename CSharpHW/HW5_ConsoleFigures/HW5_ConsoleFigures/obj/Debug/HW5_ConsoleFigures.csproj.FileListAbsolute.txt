@@ -1,0 +1,6 @@
+c:\users\admin_k\documents\visual studio 2015\Projects\HW5_ConsoleFigures\HW5_ConsoleFigures\bin\Debug\HW5_ConsoleFigures.exe.config
+c:\users\admin_k\documents\visual studio 2015\Projects\HW5_ConsoleFigures\HW5_ConsoleFigures\bin\Debug\HW5_ConsoleFigures.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW5_ConsoleFigures\HW5_ConsoleFigures\bin\Debug\HW5_ConsoleFigures.pdb
+c:\users\admin_k\documents\visual studio 2015\Projects\HW5_ConsoleFigures\HW5_ConsoleFigures\obj\Debug\HW5_ConsoleFigures.csprojResolveAssemblyReference.cache
+c:\users\admin_k\documents\visual studio 2015\Projects\HW5_ConsoleFigures\HW5_ConsoleFigures\obj\Debug\HW5_ConsoleFigures.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW5_ConsoleFigures\HW5_ConsoleFigures\obj\Debug\HW5_ConsoleFigures.pdb

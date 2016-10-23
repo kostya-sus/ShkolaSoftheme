@@ -1,0 +1,6 @@
+c:\users\admin_k\documents\visual studio 2015\Projects\HW3_ConsoleZodiac\HW3_ConsoleZodiac\bin\Debug\HW3_ConsoleZodiac.exe.config
+C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW3_ConsoleZodiac\HW3_ConsoleZodiac\bin\Debug\HW3_ConsoleZodiac.exe
+C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW3_ConsoleZodiac\HW3_ConsoleZodiac\bin\Debug\HW3_ConsoleZodiac.pdb
+C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW3_ConsoleZodiac\HW3_ConsoleZodiac\obj\Debug\HW3_ConsoleZodiac.csprojResolveAssemblyReference.cache
+C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW3_ConsoleZodiac\HW3_ConsoleZodiac\obj\Debug\HW3_ConsoleZodiac.exe
+C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW3_ConsoleZodiac\HW3_ConsoleZodiac\obj\Debug\HW3_ConsoleZodiac.pdb

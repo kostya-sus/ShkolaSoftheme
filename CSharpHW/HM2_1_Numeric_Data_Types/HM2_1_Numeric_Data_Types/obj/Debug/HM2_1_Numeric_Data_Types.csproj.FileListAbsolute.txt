@@ -1,0 +1,6 @@
+c:\users\admin_k\documents\visual studio 2015\Projects\HM2_1_Numeric_Data_Types\HM2_1_Numeric_Data_Types\bin\Debug\HM2_1_Numeric_Data_Types.exe.config
+c:\users\admin_k\documents\visual studio 2015\Projects\HM2_1_Numeric_Data_Types\HM2_1_Numeric_Data_Types\bin\Debug\HM2_1_Numeric_Data_Types.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HM2_1_Numeric_Data_Types\HM2_1_Numeric_Data_Types\bin\Debug\HM2_1_Numeric_Data_Types.pdb
+c:\users\admin_k\documents\visual studio 2015\Projects\HM2_1_Numeric_Data_Types\HM2_1_Numeric_Data_Types\obj\Debug\HM2_1_Numeric_Data_Types.csprojResolveAssemblyReference.cache
+c:\users\admin_k\documents\visual studio 2015\Projects\HM2_1_Numeric_Data_Types\HM2_1_Numeric_Data_Types\obj\Debug\HM2_1_Numeric_Data_Types.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HM2_1_Numeric_Data_Types\HM2_1_Numeric_Data_Types\obj\Debug\HM2_1_Numeric_Data_Types.pdb

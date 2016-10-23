@@ -1,0 +1,14 @@
+c:\users\admin_k\documents\visual studio 2015\Projects\HW6_RandomNumber\HW6_RandomNumber\bin\Debug\HW6_RandomNumber.exe.config
+c:\users\admin_k\documents\visual studio 2015\Projects\HW6_RandomNumber\HW6_RandomNumber\bin\Debug\HW6_RandomNumber.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW6_RandomNumber\HW6_RandomNumber\bin\Debug\HW6_RandomNumber.pdb
+c:\users\admin_k\documents\visual studio 2015\Projects\HW6_RandomNumber\HW6_RandomNumber\obj\Debug\HW6_RandomNumber.csprojResolveAssemblyReference.cache
+c:\users\admin_k\documents\visual studio 2015\Projects\HW6_RandomNumber\HW6_RandomNumber\obj\Debug\MainWindow.g.cs
+c:\users\admin_k\documents\visual studio 2015\Projects\HW6_RandomNumber\HW6_RandomNumber\obj\Debug\App.g.cs
+c:\users\admin_k\documents\visual studio 2015\Projects\HW6_RandomNumber\HW6_RandomNumber\obj\Debug\HW6_RandomNumber_MarkupCompile.cache
+c:\users\admin_k\documents\visual studio 2015\Projects\HW6_RandomNumber\HW6_RandomNumber\obj\Debug\HW6_RandomNumber_MarkupCompile.lref
+c:\users\admin_k\documents\visual studio 2015\Projects\HW6_RandomNumber\HW6_RandomNumber\obj\Debug\MainWindow.baml
+c:\users\admin_k\documents\visual studio 2015\Projects\HW6_RandomNumber\HW6_RandomNumber\obj\Debug\HW6_RandomNumber.g.resources
+c:\users\admin_k\documents\visual studio 2015\Projects\HW6_RandomNumber\HW6_RandomNumber\obj\Debug\HW6_RandomNumber.Properties.Resources.resources
+c:\users\admin_k\documents\visual studio 2015\Projects\HW6_RandomNumber\HW6_RandomNumber\obj\Debug\HW6_RandomNumber.csproj.GenerateResource.Cache
+c:\users\admin_k\documents\visual studio 2015\Projects\HW6_RandomNumber\HW6_RandomNumber\obj\Debug\HW6_RandomNumber.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW6_RandomNumber\HW6_RandomNumber\obj\Debug\HW6_RandomNumber.pdb
