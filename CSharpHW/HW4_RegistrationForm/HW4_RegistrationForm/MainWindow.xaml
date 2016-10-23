@@ -1,0 +1,31 @@
+﻿<Window x:Class="HW4_RegistrationForm.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="FormValidation" Height="384" Width="700">
+    <Grid>
+        <Label Content="First Name" HorizontalAlignment="Left" Margin="42,5,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="26" Margin="168,5,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Name="FirstName" TextChanged="FirstName_TextChanged"/>
+        <Label Content="Last Name" HorizontalAlignment="Left" Margin="356,5,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="26" Margin="516,5,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Name="LastName" TextChanged="LastName_TextChanged"/>
+        <Label Content="Birth date" HorizontalAlignment="Left" Margin="42,83,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="26" Margin="168,83,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Name="BirthDate" TextChanged="BirthDate_TextChanged"/>
+        <Label Content="Gender" HorizontalAlignment="Left" Margin="356,67,0,0" VerticalAlignment="Top"/>
+
+        <Label Content="Email" HorizontalAlignment="Left" Margin="42,167,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="26" Margin="168,167,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Name="Email" TextChanged="Email_TextChanged"/>
+        <Label Content="Phone number" HorizontalAlignment="Left" Margin="356,144,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="26" Margin="516,144,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Name ="PhoneNumber" TextChanged="PhoneNumber_TextChanged"/>
+        <Label Content="Additional info" HorizontalAlignment="Left" Margin="42,242,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="26" Margin="168,242,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Name="AddInfo" TextChanged="AddInfo_TextChanged"/>
+        <TextBlock HorizontalAlignment="Left" Margin="42,36,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="26" Width="258" x:Name="FirstNameVal"><Run Text="Please, enter "/><Run Text="a value"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="356,36,0,0" TextWrapping="Wrap" Text="Please, enter a value" VerticalAlignment="Top" Height="26" Width="280" Name="LastNameVal"/>
+        <TextBlock HorizontalAlignment="Left" Margin="42,129,0,0" TextWrapping="Wrap" Text="Please, enter a value in format dd.MM.YYYY" VerticalAlignment="Top" Height="26" Width="246" Name="BirthDateVal"/>
+        <TextBlock HorizontalAlignment="Left" Margin="356,113,0,0" TextWrapping="Wrap" Text="Please, enter a value" VerticalAlignment="Top" Height="26" Width="280" Name="GenderVal"/>
+        <TextBlock HorizontalAlignment="Left" Margin="42,211,0,0" TextWrapping="Wrap" Text="Please, enter a value" VerticalAlignment="Top" Height="26" Width="246" Name="EmailVal"/>
+        <TextBlock HorizontalAlignment="Left" Margin="356,188,0,0" TextWrapping="Wrap" Text="Please, enter a value" VerticalAlignment="Top" Height="26" Width="280" Name="PhoneNumberVal"/>
+        <TextBlock HorizontalAlignment="Left" Margin="42,273,0,0" TextWrapping="Wrap" Text="Please, enter a value" VerticalAlignment="Top" Height="26" Width="246" Name="AddInfoVal"/>
+        <Button Content="Validate" HorizontalAlignment="Left" Margin="381,237,0,0" VerticalAlignment="Top" Width="237" Click="Validate" Height="49"/>
+        <TextBox x:Name="Gender" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="516,70,0,0"/>
+
+    </Grid>
+</Window>
