@@ -1,0 +1,14 @@
+c:\users\admin_k\documents\visual studio 2015\Projects\HW3_ZodiacWPF\HW3_ZodiacWPF\bin\Debug\HW3_ZodiacWPF.exe.config
+c:\users\admin_k\documents\visual studio 2015\Projects\HW3_ZodiacWPF\HW3_ZodiacWPF\obj\Debug\HW3_ZodiacWPF.csprojResolveAssemblyReference.cache
+c:\users\admin_k\documents\visual studio 2015\Projects\HW3_ZodiacWPF\HW3_ZodiacWPF\obj\Debug\MainWindow.g.cs
+c:\users\admin_k\documents\visual studio 2015\Projects\HW3_ZodiacWPF\HW3_ZodiacWPF\obj\Debug\App.g.cs
+c:\users\admin_k\documents\visual studio 2015\Projects\HW3_ZodiacWPF\HW3_ZodiacWPF\obj\Debug\HW3_ZodiacWPF_MarkupCompile.cache
+c:\users\admin_k\documents\visual studio 2015\Projects\HW3_ZodiacWPF\HW3_ZodiacWPF\obj\Debug\HW3_ZodiacWPF_MarkupCompile.lref
+c:\users\admin_k\documents\visual studio 2015\Projects\HW3_ZodiacWPF\HW3_ZodiacWPF\bin\Debug\HW3_ZodiacWPF.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW3_ZodiacWPF\HW3_ZodiacWPF\bin\Debug\HW3_ZodiacWPF.pdb
+c:\users\admin_k\documents\visual studio 2015\Projects\HW3_ZodiacWPF\HW3_ZodiacWPF\obj\Debug\MainWindow.baml
+c:\users\admin_k\documents\visual studio 2015\Projects\HW3_ZodiacWPF\HW3_ZodiacWPF\obj\Debug\HW3_ZodiacWPF.g.resources
+c:\users\admin_k\documents\visual studio 2015\Projects\HW3_ZodiacWPF\HW3_ZodiacWPF\obj\Debug\HW3_ZodiacWPF.Properties.Resources.resources
+c:\users\admin_k\documents\visual studio 2015\Projects\HW3_ZodiacWPF\HW3_ZodiacWPF\obj\Debug\HW3_ZodiacWPF.csproj.GenerateResource.Cache
+c:\users\admin_k\documents\visual studio 2015\Projects\HW3_ZodiacWPF\HW3_ZodiacWPF\obj\Debug\HW3_ZodiacWPF.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW3_ZodiacWPF\HW3_ZodiacWPF\obj\Debug\HW3_ZodiacWPF.pdb
