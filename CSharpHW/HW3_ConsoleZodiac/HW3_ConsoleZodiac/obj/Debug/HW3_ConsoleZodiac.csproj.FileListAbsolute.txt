@@ -4,3 +4,6 @@ C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW3_ConsoleZodiac\HW3_Con
 C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW3_ConsoleZodiac\HW3_ConsoleZodiac\obj\Debug\HW3_ConsoleZodiac.csprojResolveAssemblyReference.cache
 C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW3_ConsoleZodiac\HW3_ConsoleZodiac\obj\Debug\HW3_ConsoleZodiac.exe
 C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW3_ConsoleZodiac\HW3_ConsoleZodiac\obj\Debug\HW3_ConsoleZodiac.pdb
+C:\Users\Admin_K\Documents\GitHub\ShkolaSoftheme\CSharpHW\HW3_ConsoleZodiac\HW3_ConsoleZodiac\bin\Debug\HW3_ConsoleZodiac.exe.config
+C:\Users\Admin_K\Documents\GitHub\ShkolaSoftheme\CSharpHW\HW3_ConsoleZodiac\HW3_ConsoleZodiac\obj\Debug\HW3_ConsoleZodiac.exe
+C:\Users\Admin_K\Documents\GitHub\ShkolaSoftheme\CSharpHW\HW3_ConsoleZodiac\HW3_ConsoleZodiac\obj\Debug\HW3_ConsoleZodiac.pdb

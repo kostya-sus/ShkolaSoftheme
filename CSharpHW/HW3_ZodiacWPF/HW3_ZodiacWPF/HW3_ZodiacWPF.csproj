@@ -95,6 +95,32 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\Aquarius.jpg" />
+    <Resource Include="images\Aries.jpg" />
+    <Resource Include="images\Cancer.jpg" />
+    <Resource Include="images\Capricorn.jpg" />
+    <Resource Include="images\Gemini.jpg" />
+    <Resource Include="images\Leo.jpg" />
+    <Resource Include="images\Libra.jpg" />
+    <Resource Include="images\New folder\Aquarius.png" />
+    <Resource Include="images\New folder\Aries.png" />
+    <Resource Include="images\New folder\Cancer.png" />
+    <Resource Include="images\New folder\Capricorn.png" />
+    <Resource Include="images\New folder\Gemini.png" />
+    <Resource Include="images\New folder\Leo.png" />
+    <Resource Include="images\New folder\Libra.png" />
+    <Resource Include="images\New folder\Pisces.png" />
+    <Resource Include="images\New folder\Sagittarius.png" />
+    <Resource Include="images\New folder\Scorpio.png" />
+    <Resource Include="images\New folder\Taurus.png" />
+    <Resource Include="images\New folder\Virgo.png" />
+    <Resource Include="images\Pisces.jpg" />
+    <Resource Include="images\Sagittarius.jpg" />
+    <Resource Include="images\Scorpio.jpg" />
+    <Resource Include="images\Taurus.jpg" />
+    <Resource Include="images\Virgo.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
