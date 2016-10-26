@@ -1,0 +1,6 @@
+c:\users\admin_k\documents\visual studio 2015\Projects\HW7_Human\HW7_Human\bin\Debug\HW7_Human.exe.config
+c:\users\admin_k\documents\visual studio 2015\Projects\HW7_Human\HW7_Human\bin\Debug\HW7_Human.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW7_Human\HW7_Human\bin\Debug\HW7_Human.pdb
+c:\users\admin_k\documents\visual studio 2015\Projects\HW7_Human\HW7_Human\obj\Debug\HW7_Human.csprojResolveAssemblyReference.cache
+c:\users\admin_k\documents\visual studio 2015\Projects\HW7_Human\HW7_Human\obj\Debug\HW7_Human.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW7_Human\HW7_Human\obj\Debug\HW7_Human.pdb

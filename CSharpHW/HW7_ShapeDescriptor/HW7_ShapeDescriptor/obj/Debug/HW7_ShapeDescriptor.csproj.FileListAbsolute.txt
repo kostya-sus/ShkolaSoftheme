@@ -1,0 +1,5 @@
+c:\users\admin_k\documents\visual studio 2015\Projects\HW7_ShapeDescriptor\HW7_ShapeDescriptor\bin\Debug\HW7_ShapeDescriptor.exe.config
+c:\users\admin_k\documents\visual studio 2015\Projects\HW7_ShapeDescriptor\HW7_ShapeDescriptor\bin\Debug\HW7_ShapeDescriptor.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW7_ShapeDescriptor\HW7_ShapeDescriptor\bin\Debug\HW7_ShapeDescriptor.pdb
+c:\users\admin_k\documents\visual studio 2015\Projects\HW7_ShapeDescriptor\HW7_ShapeDescriptor\obj\Debug\HW7_ShapeDescriptor.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW7_ShapeDescriptor\HW7_ShapeDescriptor\obj\Debug\HW7_ShapeDescriptor.pdb

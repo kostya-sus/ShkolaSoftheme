@@ -1,0 +1,6 @@
+c:\users\admin_k\documents\visual studio 2015\Projects\HW7_Car\HW7_Car\bin\Debug\HW7_Car.exe.config
+c:\users\admin_k\documents\visual studio 2015\Projects\HW7_Car\HW7_Car\bin\Debug\HW7_Car.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW7_Car\HW7_Car\bin\Debug\HW7_Car.pdb
+c:\users\admin_k\documents\visual studio 2015\Projects\HW7_Car\HW7_Car\obj\Debug\HW7_Car.csprojResolveAssemblyReference.cache
+c:\users\admin_k\documents\visual studio 2015\Projects\HW7_Car\HW7_Car\obj\Debug\HW7_Car.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW7_Car\HW7_Car\obj\Debug\HW7_Car.pdb
