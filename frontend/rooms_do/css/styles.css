@@ -1,0 +1,70 @@
+body {
+    background-color: black;
+}
+
+
+.main-align {
+    text-align: center;
+    vertical-align: central;
+}
+
+.container {
+    width: 100%;
+    padding-top: 10%;
+}
+
+.main {
+    position: absolute;
+    left: 21%
+}
+
+
+
+
+.r-304-100 {
+    position: absolute;
+    top: 48.5%;
+    left: 35%;
+ 
+}
+.r-305-100 {
+    position: absolute;
+    top: 32%;
+    left: 35%;
+ 
+}
+.r-306-100 {
+    position: absolute;
+    top: 23.5%;
+    left: 37%;
+ 
+}
+.r-307-100 {
+    position: absolute;
+    top: 23.5%;
+    left: 23.8%;
+ 
+}
+.r-308-100 {
+    position: absolute;
+    top: 33.7%;
+    left: 23.8%;
+ 
+}
+.r-309-100 {
+    position: absolute;
+    top: 39.8%;
+    left: 23.8%;
+ 
+}
+.r-310-100 {
+    position: absolute;
+    top:46.5%;
+    left: 23.8%;
+}
+
+.r-311-100 {
+    position: absolute;
+    top:57%;
+    left: 23.1%;
+}

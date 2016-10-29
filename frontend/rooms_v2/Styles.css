@@ -1,0 +1,80 @@
+.main {
+    position: relative;
+	background: #C0C0C0;
+    width : 910px;
+   }
+.room301 {
+    position: absolute;
+    bottom: 208px;
+    right: 121px;
+   }
+.room302 {
+    position: absolute;
+    bottom: 208px;
+    right: 261px;
+   }
+.room303 {
+    position: absolute;
+    bottom: 208px;
+    right: 478px;
+}
+.room304 {
+    position: absolute;
+    bottom: 208px;
+    right: 538px;
+}
+.room305 {
+    position: absolute;
+    bottom: 371px;
+    right: 568px;
+}
+.room306 {
+    position: absolute;
+    bottom: 440px;
+    right: 568px;
+}
+.room307 {
+    position: absolute;
+    bottom: 428px;
+    right: 746px;
+   }
+.room308 {
+    position: absolute;
+    bottom: 373px;
+    right: 746px;
+   }
+.room309 {
+    position: absolute;
+    bottom: 318px;
+    right: 746px;
+}
+.room310 {
+    position: absolute;
+    bottom: 229px;
+    right: 746px;
+}
+.room311 {
+    position: absolute;
+    bottom: 20px;
+    right: 665px;
+   }
+.room312 {
+    position: absolute;
+    bottom: 28px;
+    right: 470px;
+   }
+.room313 {
+    position: absolute;
+    bottom: 28px;
+    right: 323px;
+   }
+.room314 {
+    position: absolute;
+    bottom: 28px;
+    right: 122px;
+}
+.room315 {
+    position: absolute;
+    bottom: 105px;
+    right: 52px;
+}
