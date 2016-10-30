@@ -1,0 +1,6 @@
+c:\users\admin_k\documents\visual studio 2015\Projects\HW8_User\HW8_User\bin\Debug\HW8_User.exe.config
+c:\users\admin_k\documents\visual studio 2015\Projects\HW8_User\HW8_User\bin\Debug\HW8_User.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW8_User\HW8_User\bin\Debug\HW8_User.pdb
+c:\users\admin_k\documents\visual studio 2015\Projects\HW8_User\HW8_User\obj\Debug\HW8_User.csprojResolveAssemblyReference.cache
+c:\users\admin_k\documents\visual studio 2015\Projects\HW8_User\HW8_User\obj\Debug\HW8_User.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW8_User\HW8_User\obj\Debug\HW8_User.pdb

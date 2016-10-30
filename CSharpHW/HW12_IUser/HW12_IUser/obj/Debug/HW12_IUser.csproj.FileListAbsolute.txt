@@ -1,0 +1,6 @@
+c:\users\admin_k\documents\visual studio 2015\Projects\HW12_IUser\HW12_IUser\bin\Debug\HW12_IUser.exe.config
+c:\users\admin_k\documents\visual studio 2015\Projects\HW12_IUser\HW12_IUser\bin\Debug\HW12_IUser.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW12_IUser\HW12_IUser\bin\Debug\HW12_IUser.pdb
+c:\users\admin_k\documents\visual studio 2015\Projects\HW12_IUser\HW12_IUser\obj\Debug\HW12_IUser.csprojResolveAssemblyReference.cache
+c:\users\admin_k\documents\visual studio 2015\Projects\HW12_IUser\HW12_IUser\obj\Debug\HW12_IUser.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW12_IUser\HW12_IUser\obj\Debug\HW12_IUser.pdb

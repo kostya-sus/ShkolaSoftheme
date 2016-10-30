@@ -1,0 +1,6 @@
+c:\users\admin_k\documents\visual studio 2015\Projects\HW10_Array10001\HW10_Array10001\bin\Debug\HW10_Array10001.exe.config
+c:\users\admin_k\documents\visual studio 2015\Projects\HW10_Array10001\HW10_Array10001\bin\Debug\HW10_Array10001.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW10_Array10001\HW10_Array10001\bin\Debug\HW10_Array10001.pdb
+c:\users\admin_k\documents\visual studio 2015\Projects\HW10_Array10001\HW10_Array10001\obj\Debug\HW10_Array10001.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW10_Array10001\HW10_Array10001\obj\Debug\HW10_Array10001.pdb
+c:\users\admin_k\documents\visual studio 2015\Projects\HW10_Array10001\HW10_Array10001\obj\Debug\HW10_Array10001.csprojResolveAssemblyReference.cache

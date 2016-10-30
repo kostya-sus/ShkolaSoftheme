@@ -1,0 +1,6 @@
+c:\users\admin_k\documents\visual studio 2015\Projects\HW9_FileHandle\HW9_FileHandle\bin\Debug\HW9_FileHandle.exe.config
+c:\users\admin_k\documents\visual studio 2015\Projects\HW9_FileHandle\HW9_FileHandle\bin\Debug\HW9_FileHandle.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW9_FileHandle\HW9_FileHandle\bin\Debug\HW9_FileHandle.pdb
+c:\users\admin_k\documents\visual studio 2015\Projects\HW9_FileHandle\HW9_FileHandle\obj\Debug\HW9_FileHandle.csprojResolveAssemblyReference.cache
+c:\users\admin_k\documents\visual studio 2015\Projects\HW9_FileHandle\HW9_FileHandle\obj\Debug\HW9_FileHandle.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW9_FileHandle\HW9_FileHandle\obj\Debug\HW9_FileHandle.pdb

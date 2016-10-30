@@ -1,0 +1,6 @@
+c:\users\admin_k\documents\visual studio 2015\Projects\HW15_LinkedList\HW15_LinkedList\bin\Debug\HW15_LinkedList.exe.config
+c:\users\admin_k\documents\visual studio 2015\Projects\HW15_LinkedList\HW15_LinkedList\obj\Debug\HW15_LinkedList.csprojResolveAssemblyReference.cache
+c:\users\admin_k\documents\visual studio 2015\Projects\HW15_LinkedList\HW15_LinkedList\bin\Debug\HW15_LinkedList.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW15_LinkedList\HW15_LinkedList\bin\Debug\HW15_LinkedList.pdb
+c:\users\admin_k\documents\visual studio 2015\Projects\HW15_LinkedList\HW15_LinkedList\obj\Debug\HW15_LinkedList.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW15_LinkedList\HW15_LinkedList\obj\Debug\HW15_LinkedList.pdb

@@ -1,0 +1,6 @@
+c:\users\admin_k\documents\visual studio 2015\Projects\HW10_Araay3\HW10_Araay3\bin\Debug\HW10_Araay3.exe.config
+c:\users\admin_k\documents\visual studio 2015\Projects\HW10_Araay3\HW10_Araay3\obj\Debug\HW10_Araay3.csprojResolveAssemblyReference.cache
+c:\users\admin_k\documents\visual studio 2015\Projects\HW10_Araay3\HW10_Araay3\bin\Debug\HW10_Araay3.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW10_Araay3\HW10_Araay3\bin\Debug\HW10_Araay3.pdb
+c:\users\admin_k\documents\visual studio 2015\Projects\HW10_Araay3\HW10_Araay3\obj\Debug\HW10_Araay3.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW10_Araay3\HW10_Araay3\obj\Debug\HW10_Araay3.pdb

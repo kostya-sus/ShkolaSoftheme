@@ -1,0 +1,6 @@
+c:\users\admin_k\documents\visual studio 2015\Projects\HW14_Lottery\HW14_Lottery\bin\Debug\HW14_Lottery.exe.config
+c:\users\admin_k\documents\visual studio 2015\Projects\HW14_Lottery\HW14_Lottery\obj\Debug\HW14_Lottery.csprojResolveAssemblyReference.cache
+c:\users\admin_k\documents\visual studio 2015\Projects\HW14_Lottery\HW14_Lottery\bin\Debug\HW14_Lottery.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW14_Lottery\HW14_Lottery\bin\Debug\HW14_Lottery.pdb
+c:\users\admin_k\documents\visual studio 2015\Projects\HW14_Lottery\HW14_Lottery\obj\Debug\HW14_Lottery.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW14_Lottery\HW14_Lottery\obj\Debug\HW14_Lottery.pdb

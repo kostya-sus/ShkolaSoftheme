@@ -1,0 +1,6 @@
+c:\users\admin_k\documents\visual studio 2015\Projects\HW10_ArraySort\HW10_ArraySort\bin\Debug\HW10_ArraySort.exe.config
+c:\users\admin_k\documents\visual studio 2015\Projects\HW10_ArraySort\HW10_ArraySort\bin\Debug\HW10_ArraySort.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW10_ArraySort\HW10_ArraySort\bin\Debug\HW10_ArraySort.pdb
+c:\users\admin_k\documents\visual studio 2015\Projects\HW10_ArraySort\HW10_ArraySort\obj\Debug\HW10_ArraySort.csprojResolveAssemblyReference.cache
+c:\users\admin_k\documents\visual studio 2015\Projects\HW10_ArraySort\HW10_ArraySort\obj\Debug\HW10_ArraySort.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW10_ArraySort\HW10_ArraySort\obj\Debug\HW10_ArraySort.pdb

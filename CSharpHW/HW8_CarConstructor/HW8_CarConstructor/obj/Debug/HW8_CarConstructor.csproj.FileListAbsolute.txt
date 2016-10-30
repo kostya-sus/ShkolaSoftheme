@@ -1,0 +1,6 @@
+c:\users\admin_k\documents\visual studio 2015\Projects\HW8_CarConstructor\HW8_CarConstructor\bin\Debug\HW8_CarConstructor.exe.config
+c:\users\admin_k\documents\visual studio 2015\Projects\HW8_CarConstructor\HW8_CarConstructor\obj\Debug\HW8_CarConstructor.csprojResolveAssemblyReference.cache
+C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW8_CarConstructor\HW8_CarConstructor\bin\Debug\HW8_CarConstructor.exe
+C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW8_CarConstructor\HW8_CarConstructor\bin\Debug\HW8_CarConstructor.pdb
+C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW8_CarConstructor\HW8_CarConstructor\obj\Debug\HW8_CarConstructor.exe
+C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW8_CarConstructor\HW8_CarConstructor\obj\Debug\HW8_CarConstructor.pdb
