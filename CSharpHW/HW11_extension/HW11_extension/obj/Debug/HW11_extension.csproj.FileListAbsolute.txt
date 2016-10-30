@@ -1,0 +1,8 @@
+c:\users\admin_k\documents\visual studio 2015\Projects\HW11_extension\HW11_extension\bin\Debug\HW11_extension.exe.config
+c:\users\admin_k\documents\visual studio 2015\Projects\HW11_extension\HW11_extension\obj\Debug\HW11_extension.csprojResolveAssemblyReference.cache
+c:\users\admin_k\documents\visual studio 2015\Projects\HW11_extension\HW11_extension\bin\Debug\HW11_extension.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW11_extension\HW11_extension\bin\Debug\HW11_extension.pdb
+c:\users\admin_k\documents\visual studio 2015\Projects\HW11_extension\HW11_extension\bin\Debug\HW11_Printer.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW11_extension\HW11_extension\bin\Debug\HW11_Printer.pdb
+c:\users\admin_k\documents\visual studio 2015\Projects\HW11_extension\HW11_extension\obj\Debug\HW11_extension.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW11_extension\HW11_extension\obj\Debug\HW11_extension.pdb
