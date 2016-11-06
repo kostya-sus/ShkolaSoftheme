@@ -1,0 +1,6 @@
+c:\users\admin_k\documents\visual studio 2015\Projects\HW17_Iterator\HW17_Iterator\bin\Debug\HW17_Iterator.exe.config
+c:\users\admin_k\documents\visual studio 2015\Projects\HW17_Iterator\HW17_Iterator\obj\Debug\HW17_Iterator.csprojResolveAssemblyReference.cache
+c:\users\admin_k\documents\visual studio 2015\Projects\HW17_Iterator\HW17_Iterator\bin\Debug\HW17_Iterator.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW17_Iterator\HW17_Iterator\bin\Debug\HW17_Iterator.pdb
+c:\users\admin_k\documents\visual studio 2015\Projects\HW17_Iterator\HW17_Iterator\obj\Debug\HW17_Iterator.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW17_Iterator\HW17_Iterator\obj\Debug\HW17_Iterator.pdb

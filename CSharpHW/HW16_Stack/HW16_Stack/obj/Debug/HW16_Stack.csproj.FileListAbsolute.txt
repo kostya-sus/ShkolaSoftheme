@@ -1,0 +1,6 @@
+c:\users\admin_k\documents\visual studio 2015\Projects\HW16_Stack\HW16_Stack\bin\Debug\HW16_Stack.exe.config
+C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW16_Stack\HW16_Stack\bin\Debug\HW16_Stack.exe
+C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW16_Stack\HW16_Stack\bin\Debug\HW16_Stack.pdb
+C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW16_Stack\HW16_Stack\obj\Debug\HW16_Stack.csprojResolveAssemblyReference.cache
+C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW16_Stack\HW16_Stack\obj\Debug\HW16_Stack.exe
+C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW16_Stack\HW16_Stack\obj\Debug\HW16_Stack.pdb

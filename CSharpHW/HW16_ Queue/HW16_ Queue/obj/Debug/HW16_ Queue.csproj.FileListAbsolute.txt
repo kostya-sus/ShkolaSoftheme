@@ -1,0 +1,6 @@
+c:\users\admin_k\documents\visual studio 2015\Projects\HW16_ Queue\HW16_ Queue\bin\Debug\HW16_ Queue.exe.config
+c:\users\admin_k\documents\visual studio 2015\Projects\HW16_ Queue\HW16_ Queue\obj\Debug\HW16_ Queue.csprojResolveAssemblyReference.cache
+c:\users\admin_k\documents\visual studio 2015\Projects\HW16_ Queue\HW16_ Queue\bin\Debug\HW16_ Queue.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW16_ Queue\HW16_ Queue\bin\Debug\HW16_ Queue.pdb
+c:\users\admin_k\documents\visual studio 2015\Projects\HW16_ Queue\HW16_ Queue\obj\Debug\HW16_ Queue.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW16_ Queue\HW16_ Queue\obj\Debug\HW16_ Queue.pdb

@@ -1,0 +1,26 @@
+c:\users\admin_k\documents\visual studio 2015\Projects\HW4_RegistrationForm\HW4_RegistrationForm\bin\Debug\HW4_RegistrationForm.exe.config
+c:\users\admin_k\documents\visual studio 2015\Projects\HW4_RegistrationForm\HW4_RegistrationForm\bin\Debug\HW4_RegistrationForm.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW4_RegistrationForm\HW4_RegistrationForm\bin\Debug\HW4_RegistrationForm.pdb
+c:\users\admin_k\documents\visual studio 2015\Projects\HW4_RegistrationForm\HW4_RegistrationForm\obj\Debug\HW4_RegistrationForm.csprojResolveAssemblyReference.cache
+c:\users\admin_k\documents\visual studio 2015\Projects\HW4_RegistrationForm\HW4_RegistrationForm\obj\Debug\MainWindow.baml
+c:\users\admin_k\documents\visual studio 2015\Projects\HW4_RegistrationForm\HW4_RegistrationForm\obj\Debug\MainWindow.g.cs
+c:\users\admin_k\documents\visual studio 2015\Projects\HW4_RegistrationForm\HW4_RegistrationForm\obj\Debug\App.g.cs
+c:\users\admin_k\documents\visual studio 2015\Projects\HW4_RegistrationForm\HW4_RegistrationForm\obj\Debug\HW4_RegistrationForm_MarkupCompile.cache
+c:\users\admin_k\documents\visual studio 2015\Projects\HW4_RegistrationForm\HW4_RegistrationForm\obj\Debug\HW4_RegistrationForm.g.resources
+c:\users\admin_k\documents\visual studio 2015\Projects\HW4_RegistrationForm\HW4_RegistrationForm\obj\Debug\HW4_RegistrationForm.Properties.Resources.resources
+c:\users\admin_k\documents\visual studio 2015\Projects\HW4_RegistrationForm\HW4_RegistrationForm\obj\Debug\HW4_RegistrationForm.csproj.GenerateResource.Cache
+c:\users\admin_k\documents\visual studio 2015\Projects\HW4_RegistrationForm\HW4_RegistrationForm\obj\Debug\HW4_RegistrationForm.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW4_RegistrationForm\HW4_RegistrationForm\obj\Debug\HW4_RegistrationForm.pdb
+C:\Users\Admin_K\Desktop\HW4_RegistrationForm\HW4_RegistrationForm\bin\Debug\HW4_RegistrationForm.exe.config
+C:\Users\Admin_K\Desktop\HW4_RegistrationForm\HW4_RegistrationForm\obj\Debug\HW4_RegistrationForm.exe
+C:\Users\Admin_K\Desktop\HW4_RegistrationForm\HW4_RegistrationForm\obj\Debug\HW4_RegistrationForm.pdb
+C:\Users\Admin_K\Desktop\HW4_RegistrationForm\HW4_RegistrationForm\obj\Debug\HW4_RegistrationForm.csprojResolveAssemblyReference.cache
+C:\Users\Admin_K\Desktop\HW4_RegistrationForm\HW4_RegistrationForm\obj\Debug\MainWindow.baml
+C:\Users\Admin_K\Desktop\HW4_RegistrationForm\HW4_RegistrationForm\obj\Debug\MainWindow.g.cs
+C:\Users\Admin_K\Desktop\HW4_RegistrationForm\HW4_RegistrationForm\obj\Debug\App.g.cs
+C:\Users\Admin_K\Desktop\HW4_RegistrationForm\HW4_RegistrationForm\obj\Debug\HW4_RegistrationForm_MarkupCompile.cache
+C:\Users\Admin_K\Desktop\HW4_RegistrationForm\HW4_RegistrationForm\obj\Debug\HW4_RegistrationForm.g.resources
+C:\Users\Admin_K\Desktop\HW4_RegistrationForm\HW4_RegistrationForm\obj\Debug\HW4_RegistrationForm.Properties.Resources.resources
+C:\Users\Admin_K\Desktop\HW4_RegistrationForm\HW4_RegistrationForm\obj\Debug\HW4_RegistrationForm.csproj.GenerateResource.Cache
+C:\Users\Admin_K\Desktop\HW4_RegistrationForm\HW4_RegistrationForm\bin\Debug\HW4_RegistrationForm.exe
+C:\Users\Admin_K\Desktop\HW4_RegistrationForm\HW4_RegistrationForm\bin\Debug\HW4_RegistrationForm.pdb
