@@ -1,0 +1,15 @@
+c:\users\admin_k\documents\visual studio 2015\Projects\HW18_Mobile\HW18_Mobile\bin\Debug\HW18_Mobile.exe.config
+c:\users\admin_k\documents\visual studio 2015\Projects\HW18_Mobile\HW18_Mobile\obj\Debug\HW18_Mobile.csprojResolveAssemblyReference.cache
+c:\users\admin_k\documents\visual studio 2015\Projects\HW18_Mobile\HW18_Mobile\bin\Debug\HW18_Mobile.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW18_Mobile\HW18_Mobile\bin\Debug\HW18_Mobile.pdb
+c:\users\admin_k\documents\visual studio 2015\Projects\HW18_Mobile\HW18_Mobile\obj\Debug\HW18_Mobile.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW18_Mobile\HW18_Mobile\obj\Debug\HW18_Mobile.pdb
+C:\Users\Admin_K\Desktop\HW21\HW18_Mobile\HW18_Mobile\bin\Debug\HW18_Mobile.exe.config
+C:\Users\Admin_K\Desktop\HW21\HW18_Mobile\HW18_Mobile\obj\Debug\HW18_Mobile.exe
+C:\Users\Admin_K\Desktop\HW21\HW18_Mobile\HW18_Mobile\obj\Debug\HW18_Mobile.pdb
+C:\Users\Admin_K\Desktop\HW21\HW18_Mobile\HW18_Mobile\obj\Debug\HW18_Mobile.csprojResolveAssemblyReference.cache
+C:\Users\Admin_K\Desktop\HW21\HW18_Mobile\HW18_Mobile\bin\Debug\HW18_Mobile.exe
+C:\Users\Admin_K\Desktop\HW21\HW18_Mobile\HW18_Mobile\bin\Debug\HW18_Mobile.pdb
+C:\Users\Admin_K\Desktop\HW21\HW18_Mobile\HW18_Mobile\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin_K\Desktop\HW21\HW18_Mobile\HW18_Mobile\bin\Debug\protobuf-net.dll
+C:\Users\Admin_K\Desktop\HW21\HW18_Mobile\HW18_Mobile\bin\Debug\Newtonsoft.Json.xml
