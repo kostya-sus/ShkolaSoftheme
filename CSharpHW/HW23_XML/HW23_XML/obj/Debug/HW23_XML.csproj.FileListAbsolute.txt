@@ -1,0 +1,14 @@
+c:\users\admin_k\documents\visual studio 2015\Projects\HW23_XML\HW23_XML\bin\Debug\HW23_XML.exe.config
+C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW23_XML\HW23_XML\obj\Debug\HW23_XML.csprojResolveAssemblyReference.cache
+C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW23_XML\HW23_XML\obj\Debug\MainWindow.g.cs
+C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW23_XML\HW23_XML\obj\Debug\App.g.cs
+C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW23_XML\HW23_XML\obj\Debug\HW23_XML_MarkupCompile.cache
+C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW23_XML\HW23_XML\obj\Debug\HW23_XML_MarkupCompile.lref
+C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW23_XML\HW23_XML\bin\Debug\HW23_XML.exe
+C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW23_XML\HW23_XML\bin\Debug\HW23_XML.pdb
+C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW23_XML\HW23_XML\obj\Debug\MainWindow.baml
+C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW23_XML\HW23_XML\obj\Debug\HW23_XML.g.resources
+C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW23_XML\HW23_XML\obj\Debug\HW23_XML.Properties.Resources.resources
+C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW23_XML\HW23_XML\obj\Debug\HW23_XML.csproj.GenerateResource.Cache
+C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW23_XML\HW23_XML\obj\Debug\HW23_XML.exe
+C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW23_XML\HW23_XML\obj\Debug\HW23_XML.pdb
