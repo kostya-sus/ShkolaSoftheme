@@ -1,0 +1,312 @@
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\New folder\Kostya_Sus.sql||
+ NUMBER OF LINE||92||
+ ORIGIN LINE   ||SELECT COUNT(CustomerId) FROM Sales.MyCustomers||
+ REPLACE LINE  ||var COUNT(CustomerId) FROM Sales.MyCustomers||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\New folder\Kostya_Sus.sql||
+ NUMBER OF LINE||78||
+ ORIGIN LINE   ||    SELECT Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer,Sales.Customers.CustomerId AS CustomerID,||
+ REPLACE LINE  ||    var Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer,Sales.Customers.CustomerId AS CustomerID,||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\New folder\Kostya_Sus.sql||
+ NUMBER OF LINE||73||
+ ORIGIN LINE   || SELECT Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer,Sales.Customers.CustomerId AS CustomerID,||
+ REPLACE LINE  || var Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer,Sales.Customers.CustomerId AS CustomerID,||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\New folder\Kostya_Sus.sql||
+ NUMBER OF LINE||67||
+ ORIGIN LINE   ||    SELECT Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer,Sales.Customers.CustomerId AS CustomerID,||
+ REPLACE LINE  ||    var Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer,Sales.Customers.CustomerId AS CustomerID,||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\New folder\Kostya_Sus.sql||
+ NUMBER OF LINE||61||
+ ORIGIN LINE   || SELECT Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer,Sales.Customers.CustomerId AS CustomerID,||
+ REPLACE LINE  || var Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer,Sales.Customers.CustomerId AS CustomerID,||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\New folder\Kostya_Sus.sql||
+ NUMBER OF LINE||57||
+ ORIGIN LINE   || SELECT Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer||
+ REPLACE LINE  || var Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\New folder\Kostya_Sus.sql||
+ NUMBER OF LINE||53||
+ ORIGIN LINE   || SELECT Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer ||
+ REPLACE LINE  || var Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer ||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\New folder\Kostya_Sus.sql||
+ NUMBER OF LINE||50||
+ ORIGIN LINE   ||  SELECT Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer||
+ REPLACE LINE  ||  var Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\New folder\Kostya_Sus.sql||
+ NUMBER OF LINE||47||
+ ORIGIN LINE   || SELECT Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer||
+ REPLACE LINE  || var Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\New folder\Kostya_Sus.sql||
+ NUMBER OF LINE||42||
+ ORIGIN LINE   || SELECT  ProductName AS Name, UnitPrice AS Price FROM Production.Products ||
+ REPLACE LINE  || var  ProductName AS Name, UnitPrice AS Price FROM Production.Products ||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\New folder\Kostya_Sus.sql||
+ NUMBER OF LINE||40||
+ ORIGIN LINE   || SELECT  ProductName AS Name, UnitPrice AS Price FROM Production.Products ||
+ REPLACE LINE  || var  ProductName AS Name, UnitPrice AS Price FROM Production.Products ||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\New folder\Kostya_Sus.sql||
+ NUMBER OF LINE||38||
+ ORIGIN LINE   || SELECT  ProductName AS Name, UnitPrice AS Price FROM Production.Products||
+ REPLACE LINE  || var  ProductName AS Name, UnitPrice AS Price FROM Production.Products||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus.sql||
+ NUMBER OF LINE||92||
+ ORIGIN LINE   ||SELECT COUNT(CustomerId) FROM Sales.MyCustomers||
+ REPLACE LINE  ||var COUNT(CustomerId) FROM Sales.MyCustomers||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\New folder\Kostya_Sus.sql||
+ NUMBER OF LINE||35||
+ ORIGIN LINE   || SELECT  ProductName AS Name, UnitPrice AS Price FROM Production.Products ||
+ REPLACE LINE  || var  ProductName AS Name, UnitPrice AS Price FROM Production.Products ||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\New folder\Kostya_Sus.sql||
+ NUMBER OF LINE||33||
+ ORIGIN LINE   || SELECT  ProductName AS Name, UnitPrice AS Price FROM Production.Products ||
+ REPLACE LINE  || var  ProductName AS Name, UnitPrice AS Price FROM Production.Products ||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\New folder\Kostya_Sus.sql||
+ NUMBER OF LINE||31||
+ ORIGIN LINE   ||  SELECT  ProductName AS Name, UnitPrice AS Price FROM Production.Products||
+ REPLACE LINE  ||  var  ProductName AS Name, UnitPrice AS Price FROM Production.Products||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\New folder\Kostya_Sus.sql||
+ NUMBER OF LINE||27||
+ ORIGIN LINE   || SELECT ProductId AS ID, ProductName AS Name, UnitPrice AS Price FROM Production.Products||
+ REPLACE LINE  || var ProductId AS ID, ProductName AS Name, UnitPrice AS Price FROM Production.Products||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus.sql||
+ NUMBER OF LINE||78||
+ ORIGIN LINE   ||    SELECT Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer,Sales.Customers.CustomerId AS CustomerID,||
+ REPLACE LINE  ||    var Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer,Sales.Customers.CustomerId AS CustomerID,||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\New folder\Kostya_Sus.sql||
+ NUMBER OF LINE||24||
+ ORIGIN LINE   || SELECT OrderId AS ID_of_order, ShipperId AS ShipperId ,ShippedDate AS Date_of_ship FROM Sales.Orders||
+ REPLACE LINE  || var OrderId AS ID_of_order, ShipperId AS ShipperId ,ShippedDate AS Date_of_ship FROM Sales.Orders||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\New folder\Kostya_Sus.sql||
+ NUMBER OF LINE||23||
+ ORIGIN LINE   || SELECT OrderId AS ID_of_order FROM Sales.Orders WHERE CustomerId =7 Order by ShipperID ASC,ShippedDate DESC;||
+ REPLACE LINE  || var OrderId AS ID_of_order FROM Sales.Orders WHERE CustomerId =7 Order by ShipperID ASC,ShippedDate DESC;||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus.sql||
+ NUMBER OF LINE||73||
+ ORIGIN LINE   || SELECT Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer,Sales.Customers.CustomerId AS CustomerID,||
+ REPLACE LINE  || var Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer,Sales.Customers.CustomerId AS CustomerID,||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\New folder\Kostya_Sus.sql||
+ NUMBER OF LINE||21||
+ ORIGIN LINE   || SELECT OrderId AS Numder_of_order, OrderDate AS OrderDate FROM Sales.Orders WHERE OrderDate Between '2008-02-11' AND '2008-02-12';||
+ REPLACE LINE  || var OrderId AS Numder_of_order, OrderDate AS OrderDate FROM Sales.Orders WHERE OrderDate Between '2008-02-11' AND '2008-02-12';||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus.sql||
+ NUMBER OF LINE||67||
+ ORIGIN LINE   ||    SELECT Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer,Sales.Customers.CustomerId AS CustomerID,||
+ REPLACE LINE  ||    var Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer,Sales.Customers.CustomerId AS CustomerID,||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\New folder\Kostya_Sus.sql||
+ NUMBER OF LINE||19||
+ ORIGIN LINE   || SELECT OrderId AS ID_of_order FROM Sales.Orders WHERE ShippedDate IS NULL;||
+ REPLACE LINE  || var OrderId AS ID_of_order FROM Sales.Orders WHERE ShippedDate IS NULL;||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\New folder\Kostya_Sus.sql||
+ NUMBER OF LINE||14||
+ ORIGIN LINE   ||SELECT RIGHT(REPLICATE('0',10) + Cast(Products.ProductId AS VARCHAR),10) AS Result FROM Production.Products AS Products;||
+ REPLACE LINE  ||var RIGHT(REPLICATE('0',10) + Cast(Products.ProductId AS VARCHAR),10) AS Result FROM Production.Products AS Products;||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\New folder\Kostya_Sus.sql||
+ NUMBER OF LINE||13||
+ ORIGIN LINE   ||SELECT Products.ProductId AS Result FROM Production.Products AS Products;||
+ REPLACE LINE  ||var Products.ProductId AS Result FROM Production.Products AS Products;||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus.sql||
+ NUMBER OF LINE||61||
+ ORIGIN LINE   || SELECT Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer,Sales.Customers.CustomerId AS CustomerID,||
+ REPLACE LINE  || var Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer,Sales.Customers.CustomerId AS CustomerID,||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\New folder\Kostya_Sus.sql||
+ NUMBER OF LINE||10||
+ ORIGIN LINE   ||SELECT DATEFROMPARTS ( YEAR(@date), 12, 31 ) AS Result; ||
+ REPLACE LINE  ||var DATEFROMPARTS ( YEAR(@date), 12, 31 ) AS Result; ||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\New folder\Kostya_Sus.sql||
+ NUMBER OF LINE||9||
+ ORIGIN LINE   ||SELECT DATEADD(yy, DATEDIFF(yy,0,getdate()) + 1, -1) AS EndOfYear ;||
+ REPLACE LINE  ||var DATEADD(yy, DATEDIFF(yy,0,getdate()) + 1, -1) AS EndOfYear ;||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus.sql||
+ NUMBER OF LINE||57||
+ ORIGIN LINE   || SELECT Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer||
+ REPLACE LINE  || var Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\New folder\Kostya_Sus.sql||
+ NUMBER OF LINE||8||
+ ORIGIN LINE   ||SELECT EOMONTH( @date ) AS Result; ||
+ REPLACE LINE  ||var EOMONTH( @date ) AS Result; ||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus.sql||
+ NUMBER OF LINE||53||
+ ORIGIN LINE   || SELECT Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer ||
+ REPLACE LINE  || var Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer ||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\New folder\Kostya_Sus.sql||
+ NUMBER OF LINE||4||
+ ORIGIN LINE   ||SELECT EmployeeId AS ID, FirstName + ' ' +LastName AS NAME, YEAR(BirthDate) AS BirthYear FROM HR.Employees AS Employees; ||
+ REPLACE LINE  ||var EmployeeId AS ID, FirstName + ' ' +LastName AS NAME, YEAR(BirthDate) AS BirthYear FROM HR.Employees AS Employees; ||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus.sql||
+ NUMBER OF LINE||50||
+ ORIGIN LINE   ||  SELECT Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer||
+ REPLACE LINE  ||  var Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus.sql||
+ NUMBER OF LINE||47||
+ ORIGIN LINE   || SELECT Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer||
+ REPLACE LINE  || var Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus.sql||
+ NUMBER OF LINE||42||
+ ORIGIN LINE   || SELECT  ProductName AS Name, UnitPrice AS Price FROM Production.Products ||
+ REPLACE LINE  || var  ProductName AS Name, UnitPrice AS Price FROM Production.Products ||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus.sql||
+ NUMBER OF LINE||40||
+ ORIGIN LINE   || SELECT  ProductName AS Name, UnitPrice AS Price FROM Production.Products ||
+ REPLACE LINE  || var  ProductName AS Name, UnitPrice AS Price FROM Production.Products ||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus.sql||
+ NUMBER OF LINE||38||
+ ORIGIN LINE   || SELECT  ProductName AS Name, UnitPrice AS Price FROM Production.Products||
+ REPLACE LINE  || var  ProductName AS Name, UnitPrice AS Price FROM Production.Products||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus.sql||
+ NUMBER OF LINE||35||
+ ORIGIN LINE   || SELECT  ProductName AS Name, UnitPrice AS Price FROM Production.Products ||
+ REPLACE LINE  || var  ProductName AS Name, UnitPrice AS Price FROM Production.Products ||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus.sql||
+ NUMBER OF LINE||33||
+ ORIGIN LINE   || SELECT  ProductName AS Name, UnitPrice AS Price FROM Production.Products ||
+ REPLACE LINE  || var  ProductName AS Name, UnitPrice AS Price FROM Production.Products ||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus.sql||
+ NUMBER OF LINE||31||
+ ORIGIN LINE   ||  SELECT  ProductName AS Name, UnitPrice AS Price FROM Production.Products||
+ REPLACE LINE  ||  var  ProductName AS Name, UnitPrice AS Price FROM Production.Products||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus.sql||
+ NUMBER OF LINE||27||
+ ORIGIN LINE   || SELECT ProductId AS ID, ProductName AS Name, UnitPrice AS Price FROM Production.Products||
+ REPLACE LINE  || var ProductId AS ID, ProductName AS Name, UnitPrice AS Price FROM Production.Products||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus.sql||
+ NUMBER OF LINE||24||
+ ORIGIN LINE   || SELECT OrderId AS ID_of_order, ShipperId AS ShipperId ,ShippedDate AS Date_of_ship FROM Sales.Orders||
+ REPLACE LINE  || var OrderId AS ID_of_order, ShipperId AS ShipperId ,ShippedDate AS Date_of_ship FROM Sales.Orders||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus.sql||
+ NUMBER OF LINE||23||
+ ORIGIN LINE   || SELECT OrderId AS ID_of_order FROM Sales.Orders WHERE CustomerId =7 Order by ShipperID ASC,ShippedDate DESC;||
+ REPLACE LINE  || var OrderId AS ID_of_order FROM Sales.Orders WHERE CustomerId =7 Order by ShipperID ASC,ShippedDate DESC;||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus.sql||
+ NUMBER OF LINE||21||
+ ORIGIN LINE   || SELECT OrderId AS Numder_of_order, OrderDate AS OrderDate FROM Sales.Orders WHERE OrderDate Between '2008-02-11' AND '2008-02-12';||
+ REPLACE LINE  || var OrderId AS Numder_of_order, OrderDate AS OrderDate FROM Sales.Orders WHERE OrderDate Between '2008-02-11' AND '2008-02-12';||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus.sql||
+ NUMBER OF LINE||19||
+ ORIGIN LINE   || SELECT OrderId AS ID_of_order FROM Sales.Orders WHERE ShippedDate IS NULL;||
+ REPLACE LINE  || var OrderId AS ID_of_order FROM Sales.Orders WHERE ShippedDate IS NULL;||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus.sql||
+ NUMBER OF LINE||14||
+ ORIGIN LINE   ||SELECT RIGHT(REPLICATE('0',10) + Cast(Products.ProductId AS VARCHAR),10) AS Result FROM Production.Products AS Products;||
+ REPLACE LINE  ||var RIGHT(REPLICATE('0',10) + Cast(Products.ProductId AS VARCHAR),10) AS Result FROM Production.Products AS Products;||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus.sql||
+ NUMBER OF LINE||13||
+ ORIGIN LINE   ||SELECT Products.ProductId AS Result FROM Production.Products AS Products;||
+ REPLACE LINE  ||var Products.ProductId AS Result FROM Production.Products AS Products;||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus.sql||
+ NUMBER OF LINE||10||
+ ORIGIN LINE   ||SELECT DATEFROMPARTS ( YEAR(@date), 12, 31 ) AS Result; ||
+ REPLACE LINE  ||var DATEFROMPARTS ( YEAR(@date), 12, 31 ) AS Result; ||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus.sql||
+ NUMBER OF LINE||9||
+ ORIGIN LINE   ||SELECT DATEADD(yy, DATEDIFF(yy,0,getdate()) + 1, -1) AS EndOfYear ;||
+ REPLACE LINE  ||var DATEADD(yy, DATEDIFF(yy,0,getdate()) + 1, -1) AS EndOfYear ;||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus.sql||
+ NUMBER OF LINE||8||
+ ORIGIN LINE   ||SELECT EOMONTH( @date ) AS Result; ||
+ REPLACE LINE  ||var EOMONTH( @date ) AS Result; ||
+||11/20/2016 9:25:30 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus.sql||
+ NUMBER OF LINE||4||
+ ORIGIN LINE   ||SELECT EmployeeId AS ID, FirstName + ' ' +LastName AS NAME, YEAR(BirthDate) AS BirthYear FROM HR.Employees AS Employees; ||
+ REPLACE LINE  ||var EmployeeId AS ID, FirstName + ' ' +LastName AS NAME, YEAR(BirthDate) AS BirthYear FROM HR.Employees AS Employees; ||
+||11/20/2016 9:26:36 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus - Copy.txt||
+ NUMBER OF LINE||92||
+ ORIGIN LINE   ||SELECT COUNT(CustomerId) FROM Sales.MyCustomers||
+ REPLACE LINE  ||var COUNT(CustomerId) FROM Sales.MyCustomers||
+||11/20/2016 9:26:36 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus - Copy.txt||
+ NUMBER OF LINE||78||
+ ORIGIN LINE   ||    SELECT Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer,Sales.Customers.CustomerId AS CustomerID,||
+ REPLACE LINE  ||    var Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer,Sales.Customers.CustomerId AS CustomerID,||
+||11/20/2016 9:26:36 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus - Copy.txt||
+ NUMBER OF LINE||73||
+ ORIGIN LINE   || SELECT Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer,Sales.Customers.CustomerId AS CustomerID,||
+ REPLACE LINE  || var Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer,Sales.Customers.CustomerId AS CustomerID,||
+||11/20/2016 9:26:36 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus - Copy.txt||
+ NUMBER OF LINE||67||
+ ORIGIN LINE   ||    SELECT Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer,Sales.Customers.CustomerId AS CustomerID,||
+ REPLACE LINE  ||    var Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer,Sales.Customers.CustomerId AS CustomerID,||
+||11/20/2016 9:26:36 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus - Copy.txt||
+ NUMBER OF LINE||61||
+ ORIGIN LINE   || SELECT Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer,Sales.Customers.CustomerId AS CustomerID,||
+ REPLACE LINE  || var Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer,Sales.Customers.CustomerId AS CustomerID,||
+||11/20/2016 9:26:36 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus - Copy.txt||
+ NUMBER OF LINE||57||
+ ORIGIN LINE   || SELECT Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer||
+ REPLACE LINE  || var Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer||
+||11/20/2016 9:26:36 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus - Copy.txt||
+ NUMBER OF LINE||53||
+ ORIGIN LINE   || SELECT Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer ||
+ REPLACE LINE  || var Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer ||
+||11/20/2016 9:26:36 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus - Copy.txt||
+ NUMBER OF LINE||50||
+ ORIGIN LINE   ||  SELECT Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer||
+ REPLACE LINE  ||  var Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer||
+||11/20/2016 9:26:36 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus - Copy.txt||
+ NUMBER OF LINE||47||
+ ORIGIN LINE   || SELECT Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer||
+ REPLACE LINE  || var Sales.Orders.OrderId AS ID_ORDER, Sales.Customers.ContactName AS Name_Customer||
+||11/20/2016 9:26:36 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus - Copy.txt||
+ NUMBER OF LINE||42||
+ ORIGIN LINE   || SELECT  ProductName AS Name, UnitPrice AS Price FROM Production.Products ||
+ REPLACE LINE  || var  ProductName AS Name, UnitPrice AS Price FROM Production.Products ||
+||11/20/2016 9:26:36 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus - Copy.txt||
+ NUMBER OF LINE||40||
+ ORIGIN LINE   || SELECT  ProductName AS Name, UnitPrice AS Price FROM Production.Products ||
+ REPLACE LINE  || var  ProductName AS Name, UnitPrice AS Price FROM Production.Products ||
+||11/20/2016 9:26:36 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus - Copy.txt||
+ NUMBER OF LINE||38||
+ ORIGIN LINE   || SELECT  ProductName AS Name, UnitPrice AS Price FROM Production.Products||
+ REPLACE LINE  || var  ProductName AS Name, UnitPrice AS Price FROM Production.Products||
+||11/20/2016 9:26:36 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus - Copy.txt||
+ NUMBER OF LINE||35||
+ ORIGIN LINE   || SELECT  ProductName AS Name, UnitPrice AS Price FROM Production.Products ||
+ REPLACE LINE  || var  ProductName AS Name, UnitPrice AS Price FROM Production.Products ||
+||11/20/2016 9:26:36 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus - Copy.txt||
+ NUMBER OF LINE||33||
+ ORIGIN LINE   || SELECT  ProductName AS Name, UnitPrice AS Price FROM Production.Products ||
+ REPLACE LINE  || var  ProductName AS Name, UnitPrice AS Price FROM Production.Products ||
+||11/20/2016 9:26:36 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus - Copy.txt||
+ NUMBER OF LINE||31||
+ ORIGIN LINE   ||  SELECT  ProductName AS Name, UnitPrice AS Price FROM Production.Products||
+ REPLACE LINE  ||  var  ProductName AS Name, UnitPrice AS Price FROM Production.Products||
+||11/20/2016 9:26:36 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus - Copy.txt||
+ NUMBER OF LINE||27||
+ ORIGIN LINE   || SELECT ProductId AS ID, ProductName AS Name, UnitPrice AS Price FROM Production.Products||
+ REPLACE LINE  || var ProductId AS ID, ProductName AS Name, UnitPrice AS Price FROM Production.Products||
+||11/20/2016 9:26:36 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus - Copy.txt||
+ NUMBER OF LINE||24||
+ ORIGIN LINE   || SELECT OrderId AS ID_of_order, ShipperId AS ShipperId ,ShippedDate AS Date_of_ship FROM Sales.Orders||
+ REPLACE LINE  || var OrderId AS ID_of_order, ShipperId AS ShipperId ,ShippedDate AS Date_of_ship FROM Sales.Orders||
+||11/20/2016 9:26:36 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus - Copy.txt||
+ NUMBER OF LINE||23||
+ ORIGIN LINE   || SELECT OrderId AS ID_of_order FROM Sales.Orders WHERE CustomerId =7 Order by ShipperID ASC,ShippedDate DESC;||
+ REPLACE LINE  || var OrderId AS ID_of_order FROM Sales.Orders WHERE CustomerId =7 Order by ShipperID ASC,ShippedDate DESC;||
+||11/20/2016 9:26:36 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus - Copy.txt||
+ NUMBER OF LINE||21||
+ ORIGIN LINE   || SELECT OrderId AS Numder_of_order, OrderDate AS OrderDate FROM Sales.Orders WHERE OrderDate Between '2008-02-11' AND '2008-02-12';||
+ REPLACE LINE  || var OrderId AS Numder_of_order, OrderDate AS OrderDate FROM Sales.Orders WHERE OrderDate Between '2008-02-11' AND '2008-02-12';||
+||11/20/2016 9:26:36 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus - Copy.txt||
+ NUMBER OF LINE||19||
+ ORIGIN LINE   || SELECT OrderId AS ID_of_order FROM Sales.Orders WHERE ShippedDate IS NULL;||
+ REPLACE LINE  || var OrderId AS ID_of_order FROM Sales.Orders WHERE ShippedDate IS NULL;||
+||11/20/2016 9:26:36 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus - Copy.txt||
+ NUMBER OF LINE||14||
+ ORIGIN LINE   ||SELECT RIGHT(REPLICATE('0',10) + Cast(Products.ProductId AS VARCHAR),10) AS Result FROM Production.Products AS Products;||
+ REPLACE LINE  ||var RIGHT(REPLICATE('0',10) + Cast(Products.ProductId AS VARCHAR),10) AS Result FROM Production.Products AS Products;||
+||11/20/2016 9:26:36 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus - Copy.txt||
+ NUMBER OF LINE||13||
+ ORIGIN LINE   ||SELECT Products.ProductId AS Result FROM Production.Products AS Products;||
+ REPLACE LINE  ||var Products.ProductId AS Result FROM Production.Products AS Products;||
+||11/20/2016 9:26:36 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus - Copy.txt||
+ NUMBER OF LINE||10||
+ ORIGIN LINE   ||SELECT DATEFROMPARTS ( YEAR(@date), 12, 31 ) AS Result; ||
+ REPLACE LINE  ||var DATEFROMPARTS ( YEAR(@date), 12, 31 ) AS Result; ||
+||11/20/2016 9:26:36 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus - Copy.txt||
+ NUMBER OF LINE||9||
+ ORIGIN LINE   ||SELECT DATEADD(yy, DATEDIFF(yy,0,getdate()) + 1, -1) AS EndOfYear ;||
+ REPLACE LINE  ||var DATEADD(yy, DATEDIFF(yy,0,getdate()) + 1, -1) AS EndOfYear ;||
+||11/20/2016 9:26:36 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus - Copy.txt||
+ NUMBER OF LINE||8||
+ ORIGIN LINE   ||SELECT EOMONTH( @date ) AS Result; ||
+ REPLACE LINE  ||var EOMONTH( @date ) AS Result; ||
+||11/20/2016 9:26:36 PM|| FILE NAME||C:\Users\Admin_K\Documents\Visual Studio 2015\Projects\HW_26TPL\HW_26TPL\bin\Debug\Test_folder\Kostya_Sus - Copy.txt||
+ NUMBER OF LINE||4||
+ ORIGIN LINE   ||SELECT EmployeeId AS ID, FirstName + ' ' +LastName AS NAME, YEAR(BirthDate) AS BirthYear FROM HR.Employees AS Employees; ||
+ REPLACE LINE  ||var EmployeeId AS ID, FirstName + ' ' +LastName AS NAME, YEAR(BirthDate) AS BirthYear FROM HR.Employees AS Employees; ||

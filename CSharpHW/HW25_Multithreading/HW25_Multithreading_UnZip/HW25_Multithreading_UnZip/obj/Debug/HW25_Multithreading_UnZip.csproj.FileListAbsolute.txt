@@ -1,0 +1,6 @@
+c:\users\admin_k\documents\visual studio 2015\Projects\HW25_Multithreading_UnZip\HW25_Multithreading_UnZip\bin\Debug\HW25_Multithreading_UnZip.exe.config
+c:\users\admin_k\documents\visual studio 2015\Projects\HW25_Multithreading_UnZip\HW25_Multithreading_UnZip\bin\Debug\HW25_Multithreading_UnZip.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW25_Multithreading_UnZip\HW25_Multithreading_UnZip\bin\Debug\HW25_Multithreading_UnZip.pdb
+c:\users\admin_k\documents\visual studio 2015\Projects\HW25_Multithreading_UnZip\HW25_Multithreading_UnZip\obj\Debug\HW25_Multithreading_UnZip.csprojResolveAssemblyReference.cache
+c:\users\admin_k\documents\visual studio 2015\Projects\HW25_Multithreading_UnZip\HW25_Multithreading_UnZip\obj\Debug\HW25_Multithreading_UnZip.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW25_Multithreading_UnZip\HW25_Multithreading_UnZip\obj\Debug\HW25_Multithreading_UnZip.pdb

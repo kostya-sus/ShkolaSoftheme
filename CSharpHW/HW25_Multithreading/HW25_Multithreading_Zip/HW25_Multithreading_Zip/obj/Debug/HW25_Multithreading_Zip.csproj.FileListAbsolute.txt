@@ -1,0 +1,6 @@
+c:\users\admin_k\documents\visual studio 2015\Projects\HW25_Multithreading_Zip\HW25_Multithreading_Zip\bin\Debug\HW25_Multithreading_Zip.exe.config
+c:\users\admin_k\documents\visual studio 2015\Projects\HW25_Multithreading_Zip\HW25_Multithreading_Zip\bin\Debug\HW25_Multithreading_Zip.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW25_Multithreading_Zip\HW25_Multithreading_Zip\bin\Debug\HW25_Multithreading_Zip.pdb
+c:\users\admin_k\documents\visual studio 2015\Projects\HW25_Multithreading_Zip\HW25_Multithreading_Zip\obj\Debug\HW25_Multithreading_Zip.csprojResolveAssemblyReference.cache
+c:\users\admin_k\documents\visual studio 2015\Projects\HW25_Multithreading_Zip\HW25_Multithreading_Zip\obj\Debug\HW25_Multithreading_Zip.exe
+c:\users\admin_k\documents\visual studio 2015\Projects\HW25_Multithreading_Zip\HW25_Multithreading_Zip\obj\Debug\HW25_Multithreading_Zip.pdb
