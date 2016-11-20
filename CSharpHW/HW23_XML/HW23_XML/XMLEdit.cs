@@ -1,20 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
-using System.Windows;
 using System.Xml.Linq;
 
 namespace HW23_XML
 {
-    class XMLEdit
+    class XmlEdit
     {
         public enum Chose { All,Price, Year, Author }
         public void AddBook(Book b)
         {
-                XDocument bookAdd = XDocument.Load("Books.xml");
-                XElement root = bookAdd.Element("catalog");
-                root.Add(new XElement("book",
+                var bookAdd = XDocument.Load("Books.xml");
+                var root = bookAdd.Element("catalog");
+                root?.Add(new XElement("book",
                                            new XElement("author", b.Author),
                                            new XElement("title", b.Name),
                                            new XElement("year", b.Year),
@@ -53,10 +51,10 @@ namespace HW23_XML
                     break;
             }
                         
-             XDocument bookDoc = XDocument.Load("Books.xml");
-             XElement root = bookDoc.Element("catalog");
+             var bookDoc = XDocument.Load("Books.xml");
+             var root = bookDoc.Element("catalog");
 
-                var books = from book in root.Descendants("book")
+             var books = from book in root?.Descendants("book")
                             where part(book)
                             select new Book {
                                             Name = (string)book.Element("title"),
@@ -65,7 +63,6 @@ namespace HW23_XML
                                             Author = (string)book.Element("author"),
                                             Description = (string)book.Element("description")
                                             };
-
              return books.ToList();
                               
         }

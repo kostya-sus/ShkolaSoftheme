@@ -1,76 +1,74 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
+
 
 namespace HW23_XML
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
     public partial class MainWindow : Window
     {
-        private XMLEdit _library = new XMLEdit();
+        private readonly XmlEdit _library = new XmlEdit();
         public MainWindow()
         {
             InitializeComponent();
 
-            List<string> options = new List<string>();
-            options.Add("Show All book");
-            options.Add("Price");
-            options.Add("Year");
-            options.Add("Author");
-         
+            var options = new List<string> {"Show All book", "Price", "Year", "Author"};
             searchAtribute.ItemsSource = options;
-            
-
-            
-            
         }
 
         private void Search_Click(object sender, RoutedEventArgs e)
         {
            
-             List<Book> books = _library.GetBooks((XMLEdit.Chose)searchAtribute.SelectedIndex, searchText.Text);
-
-
-            string output = string.Empty;
-            foreach (var book in books)
-            {
-                output += "Name: " + book.Name  + "\nAuthor: " + book.Author + 
-                    "\nYear: " + book.Year + "\nPrice: " + book.Price +
-                    "\n" + "Description: " + book.Description + "\n\n";
-            }
+            var books = _library.GetBooks((XmlEdit.Chose)searchAtribute.SelectedIndex, searchText.Text);
+            var output = books.Aggregate(string.Empty, (current, book) =>
+                                                                        current + ("Name: " + book.Name + "\nAuthor: " + book.Author +
+                                                                        "\nYear: " + book.Year + "\nPrice: " + book.Price + 
+                                                                        "\nDescription: " + book.Description + "\n\n"));
 
             if (output == string.Empty)
                 MessageBox.Show("We found nothing");
-                
 
             ShowPlace.Text = output;
         }
 
         private void Add_Click(object sender, RoutedEventArgs e)
         {
-            Book b = new Book  {
-                              Name = title.Text,
-                              Year = year.Text,
-                              Price = price.Text,
-                              Author = author.Text,
-                              Description = description.Text
-                               };
-             _library.AddBook(b);
-            MessageBox.Show("Successful");
-           
+            if (title.Text == string.Empty)
+                MessageBox.Show("Name required");
+            else
+            {
+                if (year.Text == string.Empty)
+                    MessageBox.Show("Year required");
+                else
+                {
+                    if (price.Text == string.Empty)
+                        MessageBox.Show("Price required");
+                    else
+                    {
+                        if (author.Text == string.Empty)
+                            MessageBox.Show("Author required");
+                        else
+                        {
+                            if (description.Text == string.Empty)
+                                MessageBox.Show("Description required");
+                            else
+                            {
+                                var b = new Book
+                                {
+                                    Name = title.Text,
+                                    Year = year.Text,
+                                    Price = price.Text,
+                                    Author = author.Text,
+                                    Description = description.Text
+                                };
+                                _library.AddBook(b);
+                                MessageBox.Show("Successful");
+                            }
+                        }
+                    }
+                }
+            }
         }
 
         private void searchAtribute_SelectionChanged(object sender, SelectionChangedEventArgs e)

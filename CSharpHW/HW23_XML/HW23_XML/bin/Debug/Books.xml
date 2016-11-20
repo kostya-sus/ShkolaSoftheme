@@ -77,4 +77,18 @@
     <price></price>
     <description></description>
   </book>
+  <book>
+    <author></author>
+    <title></title>
+    <year></year>
+    <price></price>
+    <description></description>
+  </book>
+  <book>
+    <author></author>
+    <title></title>
+    <year></year>
+    <price></price>
+    <description></description>
+  </book>
 </catalog>
