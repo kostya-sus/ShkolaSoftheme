@@ -5,64 +5,54 @@ using System.Xml.Linq;
 
 namespace HW23_XML
 {
-    class XmlEdit
+    internal class XmlEdit
     {
-        public enum Chose { All,Price, Year, Author }
-        public void AddBook(Book b)
+        public void AddBook(Book book)
         {
                 var bookAdd = XDocument.Load("Books.xml");
                 var root = bookAdd.Element("catalog");
-                root?.Add(new XElement("book",
-                                           new XElement("author", b.Author),
-                                           new XElement("title", b.Name),
-                                           new XElement("year", b.Year),
-                                           new XElement("price", b.Price),
-                                           new XElement("description", b.Description)));
-
+                root.Add( new XElement("book",
+                          new XElement("author", book.Author),
+                          new XElement("title", book.Name),
+                          new XElement("year", book.Year),
+                          new XElement("price", book.Price),
+                          new XElement("description", book.Description)));
                 bookAdd.Save("Books.xml");                              
         }
 
-        public List<Book> GetBooks(Chose chose, string criteria = "")
+        public List<Book> GetBooks(int chose, string criteria)
         {
             Predicate<XElement> part;
             switch (chose)
             {
-                case Chose.All:
-                    part = new Predicate<XElement>(b => true);
+                case 0:
+                    part = xElement => true;
                     break;
-               case Chose.Price:
-                    part = new Predicate<XElement>(b => { if (((string)b.Element("price")) == criteria) return true;
-                                                         return false;
-                                                         });
+                case 1:
+                    part = xElement => ((string)xElement.Element("price")) == criteria;
                     break;
-                case Chose.Year:
-                    part = new Predicate<XElement>(b => { if (((string)b.Element("year")) == criteria)  return true;
-                                                         return false;
-                                                         });
+                case 2:
+                    part = xElement => ((string)xElement.Element("year")) == criteria;
                     break;
-                case Chose.Author:
-                    part = new Predicate<XElement>(b => { if (((string)b.Element("author")) == criteria) return true;
-                                                         return false;
-                                                         });
+                case 3:
+                    part = xElement => ((string)xElement.Element("author")) == criteria;
                     break;
-
                 default:
-                    part = new Predicate<XElement>(b => false);                                
+                    part = xElement => false;                                
                     break;
             }
                         
              var bookDoc = XDocument.Load("Books.xml");
              var root = bookDoc.Element("catalog");
 
-             var books = from book in root?.Descendants("book")
-                            where part(book)
-                            select new Book {
-                                            Name = (string)book.Element("title"),
-                                            Year = (string)book.Element("year"),
-                                            Price = (string)book.Element("price"),
-                                            Author = (string)book.Element("author"),
-                                            Description = (string)book.Element("description")
-                                            };
+             var books = (root.Descendants("book")).Where(book => part(book)).Select(book => new Book
+             {
+                 Name = (string) book.Element("title"),
+                 Year = (string) book.Element("year"),
+                 Price = (string) book.Element("price"),
+                 Author = (string) book.Element("author"),
+                 Description = (string) book.Element("description")
+             });
              return books.ToList();
                               
         }

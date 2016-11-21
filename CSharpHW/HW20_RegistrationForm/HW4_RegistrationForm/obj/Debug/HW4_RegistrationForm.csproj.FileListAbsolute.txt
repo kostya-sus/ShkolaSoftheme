@@ -24,3 +24,6 @@ C:\Users\Admin_K\Desktop\HW4_RegistrationForm\HW4_RegistrationForm\obj\Debug\HW4
 C:\Users\Admin_K\Desktop\HW4_RegistrationForm\HW4_RegistrationForm\obj\Debug\HW4_RegistrationForm.csproj.GenerateResource.Cache
 C:\Users\Admin_K\Desktop\HW4_RegistrationForm\HW4_RegistrationForm\bin\Debug\HW4_RegistrationForm.exe
 C:\Users\Admin_K\Desktop\HW4_RegistrationForm\HW4_RegistrationForm\bin\Debug\HW4_RegistrationForm.pdb
+C:\Users\Admin_K\Documents\GitHub\ShkolaSoftheme\CSharpHW\HW20_RegistrationForm\HW4_RegistrationForm\bin\Debug\HW4_RegistrationForm.exe.config
+C:\Users\Admin_K\Documents\GitHub\ShkolaSoftheme\CSharpHW\HW20_RegistrationForm\HW4_RegistrationForm\obj\Debug\HW4_RegistrationForm.exe
+C:\Users\Admin_K\Documents\GitHub\ShkolaSoftheme\CSharpHW\HW20_RegistrationForm\HW4_RegistrationForm\obj\Debug\HW4_RegistrationForm.pdb

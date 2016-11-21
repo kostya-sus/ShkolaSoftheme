@@ -6,14 +6,12 @@ namespace HW4_RegistrationForm
 {
     public partial class MainWindow : Window
     {
-        private const string EMPTY = "It's empty please enter info";
-        private const string successful = "Good work !successful";
-
-        
-
+        private const string Empty = "It's empty please enter info";
+       
         private void Validate(object sender, RoutedEventArgs e)
         {
-             var registrationForm = new Registration() { FirstName = FirstName.Text,
+             var registrationForm = new Registration() {
+                                                         FirstName = FirstName.Text,
                                                          LastName = LastName.Text,
                                                          BirthDay = BirthDate.Text,
                                                          Gender = Gender.Text,
@@ -25,16 +23,10 @@ namespace HW4_RegistrationForm
             var context = new ValidationContext(registrationForm);
 
             if (!Validator.TryValidateObject(registrationForm, context, results, true))
-            {
                 foreach (var error in results)
-                {
                     MessageBox.Show(error.ErrorMessage);
-                }
-            }
             else
-            {
-                MessageBox.Show(successful);
-            }
+                MessageBox.Show("Good work!It successful");
         }
                  
 
@@ -46,7 +38,7 @@ namespace HW4_RegistrationForm
             }
             else if (FirstName.Text.Length == 0)
             {
-                FirstNameVal.Text = EMPTY;
+                FirstNameVal.Text = Empty;
             }
         }
 
@@ -58,7 +50,7 @@ namespace HW4_RegistrationForm
             }
             else if (LastName.Text.Length == 0)
             {
-                LastNameVal.Text = EMPTY;
+                LastNameVal.Text = Empty;
             }
         }
 
@@ -70,7 +62,7 @@ namespace HW4_RegistrationForm
             }
             else if (BirthDate.Text.Length == 0)
             {
-                BirthDateVal.Text = EMPTY;
+                BirthDateVal.Text = Empty;
             }
         }
 
@@ -82,7 +74,7 @@ namespace HW4_RegistrationForm
             }
             else if (Gender.Text.Length==0)
             {
-                GenderVal.Text = EMPTY;
+                GenderVal.Text = Empty;
             }
         }
         
@@ -94,7 +86,7 @@ namespace HW4_RegistrationForm
             }
             else if (Email.Text.Length == 0)
             {
-                EmailVal.Text = EMPTY;
+                EmailVal.Text = Empty;
             }
         }
 
@@ -106,7 +98,7 @@ namespace HW4_RegistrationForm
             }
             else if (PhoneNumber.Text.Length == 0)
             {
-                PhoneNumberVal.Text = EMPTY;
+                PhoneNumberVal.Text = Empty;
             }
         }
 
@@ -118,7 +110,7 @@ namespace HW4_RegistrationForm
             }
             else if (AddInfo.Text.Length == 0)
             {
-                AddInfoVal.Text = EMPTY;
+                AddInfoVal.Text = Empty;
             }
         }
 
