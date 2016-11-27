@@ -1,0 +1,6 @@
+c:\users\admin_k\documents\visual studio 2015\Projects\HW13_memory\HW13_memory\bin\Debug\HW13_memory.exe.config
+C:\Users\Admin_K\documents\visual studio 2015\Projects\HW13_memory\HW13_memory\obj\Debug\HW13_memory.csprojResolveAssemblyReference.cache
+C:\Users\Admin_K\documents\visual studio 2015\Projects\HW13_memory\HW13_memory\bin\Debug\HW13_memory.exe
+C:\Users\Admin_K\documents\visual studio 2015\Projects\HW13_memory\HW13_memory\bin\Debug\HW13_memory.pdb
+C:\Users\Admin_K\documents\visual studio 2015\Projects\HW13_memory\HW13_memory\obj\Debug\HW13_memory.exe
+C:\Users\Admin_K\documents\visual studio 2015\Projects\HW13_memory\HW13_memory\obj\Debug\HW13_memory.pdb
